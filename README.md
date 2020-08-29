@@ -7,7 +7,7 @@ You can see my portfolio on my [oficial page]([https://pedroprogrammer.vercel.ap
 
 I am currently available for freelance projects and full-time remote work.
 
-But what I really would like to do is to migrate to Canada and work there (I live in Brazil now) - So if you have some opportunity for me please let me know.
+But what I really would like to do is to migrate to Canada/ Europe and work there (I live in Brazil now) - So if you have some opportunity for me please let me know.
 
 # Tech stack
 I usually work with ***Next.js*** and use ***Bootstrap*** for layout and basic components.
