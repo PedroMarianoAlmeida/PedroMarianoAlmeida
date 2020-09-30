@@ -2,22 +2,59 @@
 
 I am ***Pedro Almeida***, a freelancer Front-end Developer.
 
-# Hire me
-You can see my portfolio on my [oficial page]([https://pedroprogrammer.vercel.app/](https://pedroprogrammer.vercel.app/)) - or right bellow my coolest repos are tagged 😎
 
-I am currently available for freelance projects and full-time remote work.
+# Profile
+- Electric Engineer in career transition to the IT area with two years of JavaScript, CSS and HTML studies and one year of React and Next.Js studies. 
+- I do freelance work in front-end development, personal projects and am currently studying UX Design at IGTI. 
+- I have experience in SEO optimization using tests such as Google Light House and ad insertion using Next.Js (React framework, due to the virtual DOM, it is not a trivial task, the methods given by the tool did not work) – Media.NET
 
-But what I really would like to do is to migrate to Canada/ Europe and work there (I live in Brazil now) - So if you have some opportunity for me please let me know.
 
-# Tech stack
-I usually work with ***Next.js*** and use ***Bootstrap*** for layout and basic components.
+# Competences
+- React
+- Storybook
+- Next.js
+- JavaScript
+- CSS
+- HTML
+- Bootstrap
+- Jquery
+- Clean Code
+- Technical Writer
+- Google Lighthouse
 
-In ***React*** library I use functional components boosted with all hooks that are needed (and sometimes I create my own)
 
-I don't deal with back-end, so I always use a third party API to get my data. And when I need to create my own data, I use Firebase to CRUD (create, read, update, and delete) any data.
+# Certifications
 
-# Skills
+- Altcademy
+  - HTML CSS Development
+  - JavaScript Programming
+  - Dynamic Website Development
+  - ReactJS Development
+- Sololearn – JavaScript Tutorial Course
+- Linkedin - JavaScript
 
-This tools (Next, Bootstrap and React) increase considerably my productivity, but it is just tools, my real dev skills are  ***JavaScript***, ***HTML***, and ***CSS***.
+# Professional Experience
 
-And I have the technical and soft skills to work as a programmer since I already work in an office for more than 10 years (the five last as Electrical Engineer). So I handle well the MS Office Softwares (especially the MS Excel), make reports, meeting with clients and deal with visitors, suppliers, staff, etc.
+- Static website development
+  - Own site - https://pedroprogrammer.com/ 
+  - Development of a bilingual website (Portuguese - English) with a configuration that allows for user interaction through Whatsapp and Social Media with the site owner (musical producer)
+https://www.caioandrademixing.com/
+  - Project for VanHack, a platform that is focused on senior developer job placement. The platform applies a test that evaluates the developer’s knowledge in Web Development. My result was 92/100
+ https://stupefied-mcnulty-88e925.netlify.app/ 
+
+- Dynamic website development using external Web APIs (fetch) and Google Services (maps and translate)
+  - Multilanguage WebApp focused on providing the user with a recipe based on the ingredients provided. 
+https://myfridgemeal.com/  
+  - Template for those who wish to create a website basing the content on geographical location. Styling of this project was done without any CSS libraries. 
+https://geoportfolio-template.vercel.app/ 
+  - WebApp with a light and dark mode where the user can search for films using keywords.
+https://desolate-ridge-36137.herokuapp.com/ 
+
+# Collaborative Projects
+- A react component library made by me, for use in my projects, properly documented and ready to be used by others.  
+https://affectionate-stonebraker-6ad0ad.netlify.app/?path=/story/example-introduction--page 
+- Most of my developer projects are available on github, with the exception of MyFridgeMeal (due to commercial objectives) and the VanHack test (because it is a test)
+https://github.com/PedroMarianoAlmeida 
+- Technical articles I have written for beginner developers (blog section of my website)
+
+
