@@ -4,24 +4,46 @@ I am ***Pedro Almeida***, a freelancer Front-end Developer.
 
 
 # Profile
-- Electric Engineer in career transition to the IT area with two years of JavaScript, CSS and HTML studies and one year of React and Next.Js studies. 
-- I do freelance work in front-end development, personal projects and am currently studying UX Design at IGTI. 
-- I have experience in SEO optimization using tests such as Google Light House and ad insertion using Next.Js (React framework, due to the virtual DOM, it is not a trivial task, the methods given by the tool did not work) – Media.NET
 
+- I am Frontend Developer by profession, Electrical Engineer by training (and profession too), Musician by passion, Digital marketing manager and businessman as a result of previous gigs, Investor for financial security, and Apprentice for life.
+- I develop professional and personal freelance front-end projects whilst working as an engineer in my regular job (two years of experience in JavaScript, CSS and HTML and one year of React and Next.Js)
+- My main project is a multi-language web app with the proposal to offer to the user the search of food recipe by the inserted ingredients. I did make the code and I am currently dealing with all management to transform it into a lucrative business. You can check at https://myfridgemeal.com/
+- Another relevant project is a freelancer job, a web site developed for a Musical Producer. This project has a high score in SEO (indicated for the Google Lighthouse). You can check at https://www.caioandrademixing.com/
+- In my musical career, I recorded an Album with five authorial songs (in Portuguese, my native language). You can listen here: https://open.spotify.com/album/6j9euYA0pH9P3lrSSuW1K1?si=jwS_hzVYTE-hyiQw6wmXPw
+With my digital marketing skills, I achieved 4k followers on Instagram (in 2015 when I launched the album). I am preparing my second album, will be another 5 songs directed to a child audience
 
 # Competences
-- React
-- Storybook
-- Next.js
-- JavaScript
-- CSS
-- HTML
-- Bootstrap
-- Jquery
-- Clean Code
-- Technical Writer
-- Google Lighthouse
-
+- Frontend Skills
+  - React
+  - Storybook
+  - Next.js
+  - JavaScript
+  - CSS
+  - HTML
+  - Bootstrap
+  - Jquery
+  - SEO
+  - Google Lighthouse
+  - Github
+- Programming Related Skills
+  - Clean Code
+  - Technical Writer
+  - Report Writing
+  - Arduino
+- Administrative Skills
+  - Windows
+  - MS Excel
+  - MS Access
+  - MS Word
+- Interpersonal Skills
+  - Client Relations
+  - Teaching
+  - Public Speaking
+  - Communication
+- Others Skills
+  - Digital Marketing
+  - Music
+  - Engineering
 
 # Certifications
 
@@ -33,7 +55,7 @@ I am ***Pedro Almeida***, a freelancer Front-end Developer.
 - Sololearn – JavaScript Tutorial Course
 - Linkedin - JavaScript
 
-# Professional Experience
+# Professional Experience (as developer)
 
 - Static website development
   - Own site - https://pedroprogrammer.com/ 
