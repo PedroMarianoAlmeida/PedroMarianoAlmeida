@@ -5,12 +5,12 @@ I am ***Pedro Almeida***, a freelancer Front-end Developer.
 
 # Profile
 
-- I am Frontend Developer by profession, Electrical Engineer by training (and profession too), Musician by passion, Digital marketing manager and businessman as a result of previous gigs, Investor for financial security, and Apprentice for life.
+- I am a Frontend Developer by profession, an Electrical Engineer by training (and profession too), a Musician by passion, a Digital marketing manager and businessman as a result of previous gigs, an Investor for financial security, and an Apprentice for life.
 - I develop professional and personal freelance front-end projects whilst working as an engineer in my regular job (two years of experience in JavaScript, CSS and HTML and one year of React and Next.Js)
-- My main project is a multi-language web app with the proposal to offer to the user the search of food recipe by the inserted ingredients. I did make the code and I am currently dealing with all management to transform it into a lucrative business. You can check at https://myfridgemeal.com/
-- Another relevant project is a freelancer job, a web site developed for a Musical Producer. This project has a high score in SEO (indicated for the Google Lighthouse). You can check at https://www.caioandrademixing.com/
-- In my musical career, I recorded an Album with five authorial songs (in Portuguese, my native language). You can listen here: https://open.spotify.com/album/6j9euYA0pH9P3lrSSuW1K1?si=jwS_hzVYTE-hyiQw6wmXPw
-With my digital marketing skills, I achieved 4k followers on Instagram (in 2015 when I launched the album). I am preparing my second album, will be another 5 songs directed to a child audience
+- My main project is a multi-language web app offering the user the option to search for food recipes by their inserted ingredients. I did write the code and I am currently dealing with management issues to transform it into a lucrative business. You can check it out at https://myfridgemeal.com/
+- Another relevant project is a freelancer job, a website developed for a Musical Producer. This project has a high score in SEO (indicated for the Google Lighthouse). You can check it out at https://www.caioandrademixing.com/
+- In my musical career, I recorded an Album with five authorial songs (in Portuguese, my native language). If interested, you can listen to them here: https://sptfy.com/9r8t
+- With my digital marketing skills, I achieved 4k followers on Instagram (in 2015 when I launched the album). I am preparing my second album, which will include another 5 songs, this time directed to a child audience.
 
 # Competences
 - Frontend Skills
