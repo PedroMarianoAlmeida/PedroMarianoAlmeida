@@ -10,6 +10,7 @@ I am ***Pedro Almeida***, software developer.
 #### Remove `any` in TypeScript:
 - https://github.com/DavidHDev/react-bits/pull/144
 - https://github.com/DavidHDev/react-bits/pull/171
+- https://github.com/DavidHDev/react-bits/pull/185
 
 #### Performance
 - https://github.com/DavidHDev/react-bits/pull/169
