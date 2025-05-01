@@ -11,6 +11,7 @@ I am ***Pedro Almeida***, software developer.
 - https://github.com/DavidHDev/react-bits/pull/144
 - https://github.com/DavidHDev/react-bits/pull/171
 - https://github.com/DavidHDev/react-bits/pull/185
+- https://github.com/DavidHDev/react-bits/pull/194
 
 #### Performance
 - https://github.com/DavidHDev/react-bits/pull/169
