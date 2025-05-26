@@ -12,7 +12,7 @@ I am ***Pedro Almeida***, software developer.
 
 #### Non-functional contributions:
 - https://github.com/resend/react-email/pull/2260 - Fix typo
-- https://github.com/resend/react-email/pull/2261 - Improve readme (WIP)
+- https://github.com/resend/react-email/pull/2261 - Improve readme
 
 ### React Bits (11k stars):
 
