@@ -8,7 +8,7 @@ I am ***Pedro Almeida***, software developer.
 ### React Email (16k stars):
 
 #### Bug fix:
-- https://github.com/resend/react-email/pull/2259 (WIP)
+- https://github.com/resend/react-email/pull/2259
 
 #### Non-functional contributions:
 - https://github.com/resend/react-email/pull/2260 - Fix typo
