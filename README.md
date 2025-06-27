@@ -18,7 +18,6 @@ I am ***Pedro Almeida***, software developer.
 
 #### Performance
 - https://github.com/DavidHDev/react-bits/pull/169
-- https://github.com/DavidHDev/react-bits/pull/219 (WIP)
 
 #### UX on Website (state management)
 - https://github.com/DavidHDev/react-bits/pull/174
@@ -31,7 +30,7 @@ I am ***Pedro Almeida***, software developer.
 - https://github.com/DavidHDev/react-bits/pull/209
 - https://github.com/DavidHDev/react-bits/pull/212
 - https://github.com/DavidHDev/react-bits/pull/216
-- https://github.com/DavidHDev/react-bits/pull/218 (WIP)
+- https://github.com/DavidHDev/react-bits/pull/218
 
 ### Meteor
 
