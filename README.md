@@ -14,7 +14,7 @@ I am ***Pedro Almeida***, software developer.
 - https://github.com/resend/react-email/pull/2260 - Fix typo
 - https://github.com/resend/react-email/pull/2261 - Improve readme
 
-### React Bits (11k stars):
+### React Bits (20k stars):
 
 #### Performance
 - https://github.com/DavidHDev/react-bits/pull/169
@@ -32,6 +32,7 @@ I am ***Pedro Almeida***, software developer.
 - https://github.com/DavidHDev/react-bits/pull/216
 - https://github.com/DavidHDev/react-bits/pull/218
 - https://github.com/DavidHDev/react-bits/pull/349
+- https://github.com/DavidHDev/react-bits/pull/366 - WIP
 
 ### Meteor
 
