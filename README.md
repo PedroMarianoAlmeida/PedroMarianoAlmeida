@@ -9,6 +9,7 @@ I am ***Pedro Almeida***, software developer.
 
 #### Bug fix:
 - https://github.com/resend/react-email/pull/2259
+- https://github.com/resend/react-email/pull/2408 - WIP
 
 #### Non-functional contributions:
 - https://github.com/resend/react-email/pull/2260 - Fix typo
