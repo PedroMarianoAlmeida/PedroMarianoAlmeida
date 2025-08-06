@@ -35,6 +35,7 @@ I am ***Pedro Almeida***, software developer.
 - https://github.com/DavidHDev/react-bits/pull/349
 - https://github.com/DavidHDev/react-bits/pull/366
 - https://github.com/DavidHDev/react-bits/pull/368
+- https://github.com/DavidHDev/react-bits/pull/370 - WIP
 
 ### Meteor
 
