@@ -41,3 +41,6 @@ I am ***Pedro Almeida***, software developer.
 
 #### Test
 - https://github.com/meteor/react-packages/pull/428
+
+### Paypal
+- https://github.com/paypal/paypal-js/pull/640 - WIP
