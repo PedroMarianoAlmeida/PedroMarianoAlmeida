@@ -44,3 +44,7 @@ I am ***Pedro Almeida***, software developer.
 
 ### Paypal
 - https://github.com/paypal/paypal-js/pull/640
+
+### Coaching
+#### Helping junior developers
+- https://github.com/guilhermedaq/privategui/pull/2 - Fix build in a personal project
