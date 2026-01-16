@@ -5,6 +5,9 @@ I am ***Pedro Almeida***, software developer.
 ## <https://pedroalmeidaprogrammer.vercel.app/>
 
 ## Open source contributions:
+### QR Code:
+- https://github.com/gcoro/react-qrcode-logo/pull/69 - Feature to use at my work
+
 ### React Email (16k stars):
 
 #### Bug fix:
