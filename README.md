@@ -5,6 +5,10 @@ I am ***Pedro Almeida***, software developer.
 ## <https://pedroalmeidaprogrammer.vercel.app/>
 
 ## Open source contributions:
+
+### Ghost
+- https://github.com/TryGhost/Ghost/pull/26124 - WIP
+  
 ### QR Code:
 - https://github.com/gcoro/react-qrcode-logo/pull/69 - Feature to use at my work
 
