@@ -21,10 +21,11 @@ I am ***Pedro Almeida***, software developer.
 - https://github.com/resend/react-email/pull/2260 - Fix typo
 - https://github.com/resend/react-email/pull/2261 - Improve readme
 
-### React Bits (20k stars):
+### React Bits (36k stars):
 
 #### Performance
 - https://github.com/DavidHDev/react-bits/pull/169
+- https://github.com/DavidHDev/react-bits/pull/882 - WIP
 
 #### UX on Website (state management)
 - https://github.com/DavidHDev/react-bits/pull/174
@@ -43,6 +44,9 @@ I am ***Pedro Almeida***, software developer.
 - https://github.com/DavidHDev/react-bits/pull/368
 - https://github.com/DavidHDev/react-bits/pull/370
 
+#### Docs:
+https://github.com/DavidHDev/react-bits/pull/883
+
 ### Meteor
 
 #### Test
@@ -50,7 +54,3 @@ I am ***Pedro Almeida***, software developer.
 
 ### Paypal
 - https://github.com/paypal/paypal-js/pull/640
-
-### Coaching
-#### Helping junior developers
-- https://github.com/guilhermedaq/privategui/pull/2 - Fix build in a personal project
