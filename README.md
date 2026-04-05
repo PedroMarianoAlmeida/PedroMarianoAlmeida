@@ -4,7 +4,7 @@ I am ***Pedro Almeida***, software developer.
 
 ## <https://pedroalmeidaprogrammer.vercel.app/>
 
-## Open source contributions (21 completed + 1 in progress):
+## Open source contributions (21 completed + 2 in progress):
 
 ### Ghost
 - Typescript - remove `any` from codebase: [26124 - WIP](https://github.com/TryGhost/Ghost/pull/26124)
@@ -27,3 +27,6 @@ I am ***Pedro Almeida***, software developer.
 
 ### Paypal
 - [Bugfix from issues](https://github.com/paypal/paypal-js/pull/640)
+
+### Supabase
+- [Solve a 2-year-old TODO on codebase - WIP](https://github.com/supabase/supabase/pull/44541)
