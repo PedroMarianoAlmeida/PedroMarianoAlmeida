@@ -7,7 +7,7 @@ I am ***Pedro Almeida***, software developer.
 ## Open source contributions (21 completed + 2 in progress):
 
 ### Ghost
-- Typescript - remove `any` from codebase: [26124](https://github.com/TryGhost/Ghost/pull/26124)
+- Typescript - remove `any` from codebase: [26124](https://github.com/TryGhost/Ghost/pull/26124), [28541 - WIP](https://github.com/TryGhost/Ghost/pull/28541)
   
 ### React QR Code: 
  - [Add storybook](https://github.com/gcoro/react-qrcode-logo/pull/69)
