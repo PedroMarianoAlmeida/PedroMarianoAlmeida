@@ -11,7 +11,7 @@ I am ***Pedro Almeida***, software developer.
 
 ### Ghost (54k ⭐)
 - Typescript - remove `any` from codebase: [26124](https://github.com/TryGhost/Ghost/pull/26124), [28541](https://github.com/TryGhost/Ghost/pull/28541), [28557](https://github.com/TryGhost/Ghost/pull/28557)
-- Clean up - remove dead code: [28606 - WIP](https://github.com/TryGhost/Ghost/pull/28606)
+- Clean up - remove dead code: [28606](https://github.com/TryGhost/Ghost/pull/28606)
 
 ### React Bits (41k ⭐):
 - Improve performance: [VariableProximity](https://github.com/DavidHDev/react-bits/pull/169) and [Hyperspeed](https://github.com/DavidHDev/react-bits/pull/882)
