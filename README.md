@@ -4,7 +4,7 @@ I am ***Pedro Almeida***, software developer.
 
 ## <https://pedromarianoalmeida.github.io/palmeida-website-2026/>
 
-## Open source contributions (25 completed + 3 in progress):
+## Open source contributions (26 completed + 2 in progress):
 
 ### Supabase (104k ⭐):
 - [Solve a 2-year-old TODO on codebase - WIP](https://github.com/supabase/supabase/pull/44541)
