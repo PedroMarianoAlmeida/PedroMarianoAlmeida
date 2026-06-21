@@ -4,7 +4,7 @@ I am ***Pedro Almeida***, software developer.
 
 ## <https://pedromarianoalmeida.github.io/palmeida-website-2026/>
 
-## Open source contributions (28 completed + 2 in progress):
+## Open source contributions (29 completed + 2 in progress):
 
 ### Supabase (104k ⭐):
 - [Solve a 2-year-old TODO on codebase - WIP](https://github.com/supabase/supabase/pull/44541)
@@ -12,6 +12,7 @@ I am ***Pedro Almeida***, software developer.
 ### Ghost (54k ⭐)
 - Typescript - remove `any` from codebase: [26124](https://github.com/TryGhost/Ghost/pull/26124), [28541](https://github.com/TryGhost/Ghost/pull/28541), [28557](https://github.com/TryGhost/Ghost/pull/28557), [28733 - WIP](https://github.com/TryGhost/Ghost/pull/28733)
 - Clean up - remove dead code: [28606](https://github.com/TryGhost/Ghost/pull/28606), [28638](https://github.com/TryGhost/Ghost/pull/28638)
+- Ember to React migration: [restore route - WIP](https://github.com/TryGhost/Ghost/pull/28767)
 
 ### React Bits (41k ⭐):
 - Improve performance: [VariableProximity](https://github.com/DavidHDev/react-bits/pull/169) and [Hyperspeed](https://github.com/DavidHDev/react-bits/pull/882)
