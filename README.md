@@ -6,17 +6,69 @@ I am ***Pedro Almeida***, software developer.
 
 ## Open source contributions (29 completed + 3 in progress):
 
-| Project | Focus | Pull requests |
-| --- | --- | --- |
-| Supabase (104k ⭐) | Solve a 2-year-old TODO on codebase | [44541 - WIP](https://github.com/supabase/supabase/pull/44541) |
-| Ghost (54k ⭐) | Typescript - remove `any` from codebase | [26124](https://github.com/TryGhost/Ghost/pull/26124), [28541](https://github.com/TryGhost/Ghost/pull/28541), [28557](https://github.com/TryGhost/Ghost/pull/28557), [28733](https://github.com/TryGhost/Ghost/pull/28733), [28851](https://github.com/TryGhost/Ghost/pull/28851), [28935 - WIP](https://github.com/TryGhost/Ghost/pull/28935) |
-| Ghost (54k ⭐) | Clean up - remove dead code | [28606](https://github.com/TryGhost/Ghost/pull/28606), [28638](https://github.com/TryGhost/Ghost/pull/28638) |
-| React Bits (41k ⭐) | Improve performance | [VariableProximity](https://github.com/DavidHDev/react-bits/pull/169), [Hyperspeed](https://github.com/DavidHDev/react-bits/pull/882) |
-| React Bits (41k ⭐) | UX on Website (state management) | [174](https://github.com/DavidHDev/react-bits/pull/174) |
-| React Bits (41k ⭐) | Typescript - remove `any` from codebase | [144](https://github.com/DavidHDev/react-bits/pull/144), [171](https://github.com/DavidHDev/react-bits/pull/171), [185](https://github.com/DavidHDev/react-bits/pull/185), [194](https://github.com/DavidHDev/react-bits/pull/194), [209](https://github.com/DavidHDev/react-bits/pull/209), [212](https://github.com/DavidHDev/react-bits/pull/212), [216](https://github.com/DavidHDev/react-bits/pull/216), [218](https://github.com/DavidHDev/react-bits/pull/218), [349](https://github.com/DavidHDev/react-bits/pull/349), [366](https://github.com/DavidHDev/react-bits/pull/366), [368](https://github.com/DavidHDev/react-bits/pull/368), [370](https://github.com/DavidHDev/react-bits/pull/370), [984](https://github.com/DavidHDev/react-bits/pull/984) |
-| React Bits (41k ⭐) | Docs | [Update llm.txt with the new components](https://github.com/DavidHDev/react-bits/pull/883) |
-| React Email (19k ⭐) | Bug fix from issues | [2259](https://github.com/resend/react-email/pull/2259) |
-| React Email (19k ⭐) | Clean up | [fix typo](https://github.com/resend/react-email/pull/2260), [readme improvement](https://github.com/resend/react-email/pull/2261) |
-| React QR Code (< 1k ⭐) | Add storybook | [69](https://github.com/gcoro/react-qrcode-logo/pull/69) |
-| Meteor (< 1k ⭐) | Add test to confirm a bug fix | [428](https://github.com/meteor/react-packages/pull/428) |
-| Paypal (< 1k ⭐) | Bugfix from issues | [640](https://github.com/paypal/paypal-js/pull/640) |
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Focus</th>
+      <th>Pull requests</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Supabase (104k ⭐)</td>
+      <td>Solve a 2-year-old TODO on codebase</td>
+      <td><a href="https://github.com/supabase/supabase/pull/44541">44541 - WIP</a></td>
+    </tr>
+    <tr>
+      <td rowspan="2">Ghost (54k ⭐)</td>
+      <td>Typescript - remove <code>any</code> from codebase</td>
+      <td><a href="https://github.com/TryGhost/Ghost/pull/26124">26124</a>, <a href="https://github.com/TryGhost/Ghost/pull/28541">28541</a>, <a href="https://github.com/TryGhost/Ghost/pull/28557">28557</a>, <a href="https://github.com/TryGhost/Ghost/pull/28733">28733</a>, <a href="https://github.com/TryGhost/Ghost/pull/28851">28851</a>, <a href="https://github.com/TryGhost/Ghost/pull/28935">28935 - WIP</a></td>
+    </tr>
+    <tr>
+      <td>Clean up - remove dead code</td>
+      <td><a href="https://github.com/TryGhost/Ghost/pull/28606">28606</a>, <a href="https://github.com/TryGhost/Ghost/pull/28638">28638</a></td>
+    </tr>
+    <tr>
+      <td rowspan="4">React Bits (41k ⭐)</td>
+      <td>Improve performance</td>
+      <td><a href="https://github.com/DavidHDev/react-bits/pull/169">VariableProximity</a>, <a href="https://github.com/DavidHDev/react-bits/pull/882">Hyperspeed</a></td>
+    </tr>
+    <tr>
+      <td>UX on Website (state management)</td>
+      <td><a href="https://github.com/DavidHDev/react-bits/pull/174">174</a></td>
+    </tr>
+    <tr>
+      <td>Typescript - remove <code>any</code> from codebase</td>
+      <td><a href="https://github.com/DavidHDev/react-bits/pull/144">144</a>, <a href="https://github.com/DavidHDev/react-bits/pull/171">171</a>, <a href="https://github.com/DavidHDev/react-bits/pull/185">185</a>, <a href="https://github.com/DavidHDev/react-bits/pull/194">194</a>, <a href="https://github.com/DavidHDev/react-bits/pull/209">209</a>, <a href="https://github.com/DavidHDev/react-bits/pull/212">212</a>, <a href="https://github.com/DavidHDev/react-bits/pull/216">216</a>, <a href="https://github.com/DavidHDev/react-bits/pull/218">218</a>, <a href="https://github.com/DavidHDev/react-bits/pull/349">349</a>, <a href="https://github.com/DavidHDev/react-bits/pull/366">366</a>, <a href="https://github.com/DavidHDev/react-bits/pull/368">368</a>, <a href="https://github.com/DavidHDev/react-bits/pull/370">370</a>, <a href="https://github.com/DavidHDev/react-bits/pull/984">984</a></td>
+    </tr>
+    <tr>
+      <td>Docs</td>
+      <td><a href="https://github.com/DavidHDev/react-bits/pull/883">Update llm.txt with the new components</a></td>
+    </tr>
+    <tr>
+      <td rowspan="2">React Email (19k ⭐)</td>
+      <td>Bug fix from issues</td>
+      <td><a href="https://github.com/resend/react-email/pull/2259">2259</a></td>
+    </tr>
+    <tr>
+      <td>Clean up</td>
+      <td><a href="https://github.com/resend/react-email/pull/2260">fix typo</a>, <a href="https://github.com/resend/react-email/pull/2261">readme improvement</a></td>
+    </tr>
+    <tr>
+      <td>React QR Code (&lt; 1k ⭐)</td>
+      <td>Add storybook</td>
+      <td><a href="https://github.com/gcoro/react-qrcode-logo/pull/69">69</a></td>
+    </tr>
+    <tr>
+      <td>Meteor (&lt; 1k ⭐)</td>
+      <td>Add test to confirm a bug fix</td>
+      <td><a href="https://github.com/meteor/react-packages/pull/428">428</a></td>
+    </tr>
+    <tr>
+      <td>Paypal (&lt; 1k ⭐)</td>
+      <td>Bugfix from issues</td>
+      <td><a href="https://github.com/paypal/paypal-js/pull/640">640</a></td>
+    </tr>
+  </tbody>
+</table>
