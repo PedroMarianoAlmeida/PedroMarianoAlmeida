@@ -22,8 +22,8 @@ I am ***Pedro Almeida***, software developer.
     </tr>
     <tr>
       <td rowspan="2">Ghost (54k ⭐)</td>
-      <td>Typescript - remove <code>any</code> from codebase</td>
-      <td><a href="https://github.com/TryGhost/Ghost/pull/26124">26124</a>, <a href="https://github.com/TryGhost/Ghost/pull/28541">28541</a>, <a href="https://github.com/TryGhost/Ghost/pull/28557">28557</a>, <a href="https://github.com/TryGhost/Ghost/pull/28733">28733</a>, <a href="https://github.com/TryGhost/Ghost/pull/28851">28851</a>, <a href="https://github.com/TryGhost/Ghost/pull/28935">28935 - WIP</a></td>
+      <td>Typescript - improve type safety</td>
+      <td><a href="https://github.com/TryGhost/Ghost/pull/26124">26124</a>, <a href="https://github.com/TryGhost/Ghost/pull/28541">28541</a>, <a href="https://github.com/TryGhost/Ghost/pull/28557">28557</a>, <a href="https://github.com/TryGhost/Ghost/pull/28851">28851</a>, <a href="https://github.com/TryGhost/Ghost/pull/28733">28733 - WIP</a>, <a href="https://github.com/TryGhost/Ghost/pull/28935">28935 - WIP</a></td>
     </tr>
     <tr>
       <td>Clean up - remove dead code</td>
@@ -39,7 +39,7 @@ I am ***Pedro Almeida***, software developer.
       <td><a href="https://github.com/DavidHDev/react-bits/pull/174">174</a></td>
     </tr>
     <tr>
-      <td>Typescript - remove <code>any</code> from codebase</td>
+      <td>Typescript - improve type safety</td>
       <td><a href="https://github.com/DavidHDev/react-bits/pull/144">144</a>, <a href="https://github.com/DavidHDev/react-bits/pull/171">171</a>, <a href="https://github.com/DavidHDev/react-bits/pull/185">185</a>, <a href="https://github.com/DavidHDev/react-bits/pull/194">194</a>, <a href="https://github.com/DavidHDev/react-bits/pull/209">209</a>, <a href="https://github.com/DavidHDev/react-bits/pull/212">212</a>, <a href="https://github.com/DavidHDev/react-bits/pull/216">216</a>, <a href="https://github.com/DavidHDev/react-bits/pull/218">218</a>, <a href="https://github.com/DavidHDev/react-bits/pull/349">349</a>, <a href="https://github.com/DavidHDev/react-bits/pull/366">366</a>, <a href="https://github.com/DavidHDev/react-bits/pull/368">368</a>, <a href="https://github.com/DavidHDev/react-bits/pull/370">370</a>, <a href="https://github.com/DavidHDev/react-bits/pull/984">984</a></td>
     </tr>
     <tr>
