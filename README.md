@@ -4,7 +4,7 @@ I am ***Pedro Almeida***, software developer.
 
 ## <https://pedromarianoalmeida.github.io/palmeida-website-2026/>
 
-## Open source contributions (31 completed + 2 in progress):
+## Open source contributions (32 completed + 1 in progress):
 
 <table>
   <thead>
@@ -23,7 +23,7 @@ I am ***Pedro Almeida***, software developer.
     <tr>
       <td rowspan="2">Ghost (54k ⭐)</td>
       <td>Typescript - improve type safety</td>
-      <td><a href="https://github.com/TryGhost/Ghost/pull/26124">26124</a>, <a href="https://github.com/TryGhost/Ghost/pull/28541">28541</a>, <a href="https://github.com/TryGhost/Ghost/pull/28557">28557</a>, <a href="https://github.com/TryGhost/Ghost/pull/28851">28851</a>, <a href="https://github.com/TryGhost/Ghost/pull/28733">28733</a>, <a href="https://github.com/TryGhost/Ghost/pull/28935">28935</a>, <a href="https://github.com/TryGhost/Ghost/pull/28938">28938 - WIP</a></td>
+      <td><a href="https://github.com/TryGhost/Ghost/pull/26124">26124</a>, <a href="https://github.com/TryGhost/Ghost/pull/28541">28541</a>, <a href="https://github.com/TryGhost/Ghost/pull/28557">28557</a>, <a href="https://github.com/TryGhost/Ghost/pull/28851">28851</a>, <a href="https://github.com/TryGhost/Ghost/pull/28733">28733</a>, <a href="https://github.com/TryGhost/Ghost/pull/28935">28935</a>, <a href="https://github.com/TryGhost/Ghost/pull/28938">28938</a></td>
     </tr>
     <tr>
       <td>Clean up - remove dead code</td>
