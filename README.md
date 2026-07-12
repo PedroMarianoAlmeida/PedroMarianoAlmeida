@@ -16,12 +16,12 @@ I am ***Pedro Almeida***, software developer.
   </thead>
   <tbody>
     <tr>
-      <td>Supabase (104k ⭐)</td>
+      <td>Supabase<br><a href="https://github.com/supabase/supabase"><img alt="Supabase GitHub stars" src="https://img.shields.io/github/stars/supabase/supabase?style=flat&label=stars"></a></td>
       <td>Solve a 2-year-old TODO on codebase</td>
       <td><a href="https://github.com/supabase/supabase/pull/44541">44541 - WIP</a></td>
     </tr>
     <tr>
-      <td rowspan="3">Ghost (54k ⭐)</td>
+      <td rowspan="3">Ghost<br><a href="https://github.com/TryGhost/Ghost"><img alt="Ghost GitHub stars" src="https://img.shields.io/github/stars/TryGhost/Ghost?style=flat&label=stars"></a></td>
       <td>Typescript - improve type safety</td>
       <td><a href="https://github.com/TryGhost/Ghost/pull/26124">26124</a>, <a href="https://github.com/TryGhost/Ghost/pull/28541">28541</a>, <a href="https://github.com/TryGhost/Ghost/pull/28557">28557</a>, <a href="https://github.com/TryGhost/Ghost/pull/28851">28851</a>, <a href="https://github.com/TryGhost/Ghost/pull/28733">28733</a>, <a href="https://github.com/TryGhost/Ghost/pull/28935">28935</a>, <a href="https://github.com/TryGhost/Ghost/pull/28938">28938</a>, <a href="https://github.com/TryGhost/Ghost/pull/29077">29077</a>, <a href="https://github.com/TryGhost/Ghost/pull/29183">29183</a>, <a href="https://github.com/TryGhost/Ghost/pull/29228">29228 - WIP</a></td>
     </tr>
@@ -34,7 +34,7 @@ I am ***Pedro Almeida***, software developer.
       <td><a href="https://github.com/TryGhost/Ghost/pull/29215">Add mobile card deletion control - WIP</a></td>
     </tr>
     <tr>
-      <td rowspan="4">React Bits (41k ⭐)</td>
+      <td rowspan="4">React Bits<br><a href="https://github.com/DavidHDev/react-bits"><img alt="React Bits GitHub stars" src="https://img.shields.io/github/stars/DavidHDev/react-bits?style=flat&label=stars"></a></td>
       <td>Improve performance</td>
       <td><a href="https://github.com/DavidHDev/react-bits/pull/169">VariableProximity</a>, <a href="https://github.com/DavidHDev/react-bits/pull/882">Hyperspeed</a></td>
     </tr>
@@ -51,7 +51,7 @@ I am ***Pedro Almeida***, software developer.
       <td><a href="https://github.com/DavidHDev/react-bits/pull/883">Update llm.txt with the new components</a></td>
     </tr>
     <tr>
-      <td rowspan="2">React Email (19k ⭐)</td>
+      <td rowspan="2">React Email<br><a href="https://github.com/resend/react-email"><img alt="React Email GitHub stars" src="https://img.shields.io/github/stars/resend/react-email?style=flat&label=stars"></a></td>
       <td>Bug fix from issues</td>
       <td><a href="https://github.com/resend/react-email/pull/2259">2259</a></td>
     </tr>
@@ -60,17 +60,17 @@ I am ***Pedro Almeida***, software developer.
       <td><a href="https://github.com/resend/react-email/pull/2260">fix typo</a>, <a href="https://github.com/resend/react-email/pull/2261">readme improvement</a></td>
     </tr>
     <tr>
-      <td>React QR Code (&lt; 1k ⭐)</td>
+      <td>React QR Code<br><a href="https://github.com/gcoro/react-qrcode-logo"><img alt="React QR Code GitHub stars" src="https://img.shields.io/github/stars/gcoro/react-qrcode-logo?style=flat&label=stars"></a></td>
       <td>Add storybook</td>
       <td><a href="https://github.com/gcoro/react-qrcode-logo/pull/69">69</a></td>
     </tr>
     <tr>
-      <td>Meteor (&lt; 1k ⭐)</td>
+      <td>Meteor<br><a href="https://github.com/meteor/react-packages"><img alt="Meteor React Packages GitHub stars" src="https://img.shields.io/github/stars/meteor/react-packages?style=flat&label=stars"></a></td>
       <td>Add test to confirm a bug fix</td>
       <td><a href="https://github.com/meteor/react-packages/pull/428">428</a></td>
     </tr>
     <tr>
-      <td>Paypal (&lt; 1k ⭐)</td>
+      <td>Paypal<br><a href="https://github.com/paypal/paypal-js"><img alt="PayPal JS GitHub stars" src="https://img.shields.io/github/stars/paypal/paypal-js?style=flat&label=stars"></a></td>
       <td>Bugfix from issues</td>
       <td><a href="https://github.com/paypal/paypal-js/pull/640">640</a></td>
     </tr>
