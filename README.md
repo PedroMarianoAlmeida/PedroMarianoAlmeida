@@ -4,7 +4,7 @@ I am ***Pedro Almeida***, software developer.
 
 ## <https://pedromarianoalmeida.github.io/palmeida-website-2026/>
 
-## Open source contributions (34 completed + 3 in progress):
+## Open source contributions (34 completed + 4 in progress):
 
 <table>
   <thead>
@@ -44,7 +44,7 @@ I am ***Pedro Almeida***, software developer.
     </tr>
     <tr>
       <td>Typescript - improve type safety</td>
-      <td><a href="https://github.com/DavidHDev/react-bits/pull/144">144</a>, <a href="https://github.com/DavidHDev/react-bits/pull/171">171</a>, <a href="https://github.com/DavidHDev/react-bits/pull/185">185</a>, <a href="https://github.com/DavidHDev/react-bits/pull/194">194</a>, <a href="https://github.com/DavidHDev/react-bits/pull/209">209</a>, <a href="https://github.com/DavidHDev/react-bits/pull/212">212</a>, <a href="https://github.com/DavidHDev/react-bits/pull/216">216</a>, <a href="https://github.com/DavidHDev/react-bits/pull/218">218</a>, <a href="https://github.com/DavidHDev/react-bits/pull/349">349</a>, <a href="https://github.com/DavidHDev/react-bits/pull/366">366</a>, <a href="https://github.com/DavidHDev/react-bits/pull/368">368</a>, <a href="https://github.com/DavidHDev/react-bits/pull/370">370</a>, <a href="https://github.com/DavidHDev/react-bits/pull/984">984</a></td>
+      <td><a href="https://github.com/DavidHDev/react-bits/pull/144">144</a>, <a href="https://github.com/DavidHDev/react-bits/pull/171">171</a>, <a href="https://github.com/DavidHDev/react-bits/pull/185">185</a>, <a href="https://github.com/DavidHDev/react-bits/pull/194">194</a>, <a href="https://github.com/DavidHDev/react-bits/pull/209">209</a>, <a href="https://github.com/DavidHDev/react-bits/pull/212">212</a>, <a href="https://github.com/DavidHDev/react-bits/pull/216">216</a>, <a href="https://github.com/DavidHDev/react-bits/pull/218">218</a>, <a href="https://github.com/DavidHDev/react-bits/pull/349">349</a>, <a href="https://github.com/DavidHDev/react-bits/pull/366">366</a>, <a href="https://github.com/DavidHDev/react-bits/pull/368">368</a>, <a href="https://github.com/DavidHDev/react-bits/pull/370">370</a>, <a href="https://github.com/DavidHDev/react-bits/pull/984">984</a>, <a href="https://github.com/DavidHDev/react-bits/pull/1000">1000 - WIP</a></td>
     </tr>
     <tr>
       <td>Docs</td>
