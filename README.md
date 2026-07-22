@@ -22,8 +22,8 @@ I am ***Pedro Almeida***, software developer.
     </tr>
     <tr>
       <td rowspan="3">Ghost<br><a href="https://github.com/TryGhost/Ghost"><img alt="Ghost GitHub stars" src="https://img.shields.io/github/stars/TryGhost/Ghost?style=flat&label=stars"></a></td>
-      <td>Typescript - improve type safety</td>
-      <td><a href="https://github.com/TryGhost/Ghost/pull/26124">26124</a>, <a href="https://github.com/TryGhost/Ghost/pull/28541">28541</a>, <a href="https://github.com/TryGhost/Ghost/pull/28557">28557</a>, <a href="https://github.com/TryGhost/Ghost/pull/28851">28851</a>, <a href="https://github.com/TryGhost/Ghost/pull/28733">28733</a>, <a href="https://github.com/TryGhost/Ghost/pull/28935">28935</a>, <a href="https://github.com/TryGhost/Ghost/pull/28938">28938</a>, <a href="https://github.com/TryGhost/Ghost/pull/29077">29077</a>, <a href="https://github.com/TryGhost/Ghost/pull/29183">29183</a>, <a href="https://github.com/TryGhost/Ghost/pull/29228">29228 - WIP</a></td>
+      <td>TypeScript - comments-ui cleanup from a 228-error baseline, plus broader type-safety fixes</td>
+      <td><a href="https://github.com/TryGhost/Ghost/pull/26124">26124</a>, <a href="https://github.com/TryGhost/Ghost/pull/28541">28541</a>, <a href="https://github.com/TryGhost/Ghost/pull/28557">28557</a>, <a href="https://github.com/TryGhost/Ghost/pull/28851">28851</a>, <a href="https://github.com/TryGhost/Ghost/pull/28733">28733</a>, <a href="https://github.com/TryGhost/Ghost/pull/28935">28935</a>, <a href="https://github.com/TryGhost/Ghost/pull/28938">28938</a>, <a href="https://github.com/TryGhost/Ghost/pull/29077">29077</a>, <a href="https://github.com/TryGhost/Ghost/pull/29183">29183</a>, <a href="https://github.com/TryGhost/Ghost/pull/29228">29228 - superseded</a><br><small>Maintainer follow-up: <a href="https://github.com/TryGhost/Ghost/pull/29205">29205</a> completed comments-ui typechecking and added CI enforcement.</small></td>
     </tr>
     <tr>
       <td>Clean up - remove dead code</td>
