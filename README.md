@@ -4,7 +4,7 @@ I am ***Pedro Almeida***, software developer.
 
 ## <https://pedromarianoalmeida.github.io/palmeida-website-2026/>
 
-## Open source contributions (34 completed + 4 in progress):
+## Open source contributions (35 completed + 2 in progress):
 
 <table>
   <thead>
@@ -21,9 +21,13 @@ I am ***Pedro Almeida***, software developer.
       <td><a href="https://github.com/supabase/supabase/pull/44541">44541 - WIP</a></td>
     </tr>
     <tr>
-      <td rowspan="3">Ghost<br><a href="https://github.com/TryGhost/Ghost"><img alt="Ghost GitHub stars" src="https://img.shields.io/github/stars/TryGhost/Ghost?style=flat&label=stars"></a></td>
-      <td>TypeScript - comments-ui cleanup from a 228-error baseline, plus broader type-safety fixes</td>
-      <td><a href="https://github.com/TryGhost/Ghost/pull/26124">26124</a>, <a href="https://github.com/TryGhost/Ghost/pull/28541">28541</a>, <a href="https://github.com/TryGhost/Ghost/pull/28557">28557</a>, <a href="https://github.com/TryGhost/Ghost/pull/28851">28851</a>, <a href="https://github.com/TryGhost/Ghost/pull/28733">28733</a>, <a href="https://github.com/TryGhost/Ghost/pull/28935">28935</a>, <a href="https://github.com/TryGhost/Ghost/pull/28938">28938</a>, <a href="https://github.com/TryGhost/Ghost/pull/29077">29077</a>, <a href="https://github.com/TryGhost/Ghost/pull/29183">29183</a>, <a href="https://github.com/TryGhost/Ghost/pull/29228">29228 - superseded</a><br><small>Maintainer follow-up: <a href="https://github.com/TryGhost/Ghost/pull/29205">29205</a> completed comments-ui typechecking and added CI enforcement.</small></td>
+      <td rowspan="4">Ghost<br><a href="https://github.com/TryGhost/Ghost"><img alt="Ghost GitHub stars" src="https://img.shields.io/github/stars/TryGhost/Ghost?style=flat&label=stars"></a></td>
+      <td>TypeScript - comments-ui cleanup from a 228-error baseline</td>
+      <td><a href="https://github.com/TryGhost/Ghost/pull/28733">28733</a>, <a href="https://github.com/TryGhost/Ghost/pull/28851">28851</a>, <a href="https://github.com/TryGhost/Ghost/pull/28935">28935</a>, <a href="https://github.com/TryGhost/Ghost/pull/28938">28938</a>, <a href="https://github.com/TryGhost/Ghost/pull/29077">29077</a>, <a href="https://github.com/TryGhost/Ghost/pull/29183">29183</a>, <a href="https://github.com/TryGhost/Ghost/pull/29228">29228 - superseded</a><br><small>Maintainer follow-up: <a href="https://github.com/TryGhost/Ghost/pull/29205">29205</a> completed comments-ui typechecking and added CI enforcement.</small></td>
+    </tr>
+    <tr>
+      <td>TypeScript - broader type-safety fixes</td>
+      <td><a href="https://github.com/TryGhost/Ghost/pull/26124">26124</a>, <a href="https://github.com/TryGhost/Ghost/pull/28541">28541</a>, <a href="https://github.com/TryGhost/Ghost/pull/28557">28557</a></td>
     </tr>
     <tr>
       <td>Clean up - remove dead code</td>
@@ -44,7 +48,7 @@ I am ***Pedro Almeida***, software developer.
     </tr>
     <tr>
       <td>Typescript - improve type safety</td>
-      <td><a href="https://github.com/DavidHDev/react-bits/pull/144">144</a>, <a href="https://github.com/DavidHDev/react-bits/pull/171">171</a>, <a href="https://github.com/DavidHDev/react-bits/pull/185">185</a>, <a href="https://github.com/DavidHDev/react-bits/pull/194">194</a>, <a href="https://github.com/DavidHDev/react-bits/pull/209">209</a>, <a href="https://github.com/DavidHDev/react-bits/pull/212">212</a>, <a href="https://github.com/DavidHDev/react-bits/pull/216">216</a>, <a href="https://github.com/DavidHDev/react-bits/pull/218">218</a>, <a href="https://github.com/DavidHDev/react-bits/pull/349">349</a>, <a href="https://github.com/DavidHDev/react-bits/pull/366">366</a>, <a href="https://github.com/DavidHDev/react-bits/pull/368">368</a>, <a href="https://github.com/DavidHDev/react-bits/pull/370">370</a>, <a href="https://github.com/DavidHDev/react-bits/pull/984">984</a>, <a href="https://github.com/DavidHDev/react-bits/pull/1000">1000 - WIP</a></td>
+      <td><a href="https://github.com/DavidHDev/react-bits/pull/144">144</a>, <a href="https://github.com/DavidHDev/react-bits/pull/171">171</a>, <a href="https://github.com/DavidHDev/react-bits/pull/185">185</a>, <a href="https://github.com/DavidHDev/react-bits/pull/194">194</a>, <a href="https://github.com/DavidHDev/react-bits/pull/209">209</a>, <a href="https://github.com/DavidHDev/react-bits/pull/212">212</a>, <a href="https://github.com/DavidHDev/react-bits/pull/216">216</a>, <a href="https://github.com/DavidHDev/react-bits/pull/218">218</a>, <a href="https://github.com/DavidHDev/react-bits/pull/349">349</a>, <a href="https://github.com/DavidHDev/react-bits/pull/366">366</a>, <a href="https://github.com/DavidHDev/react-bits/pull/368">368</a>, <a href="https://github.com/DavidHDev/react-bits/pull/370">370</a>, <a href="https://github.com/DavidHDev/react-bits/pull/984">984</a>, <a href="https://github.com/DavidHDev/react-bits/pull/1000">1000</a></td>
     </tr>
     <tr>
       <td>Docs</td>
