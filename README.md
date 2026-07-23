@@ -4,7 +4,7 @@ I am ***Pedro Almeida***, software developer.
 
 ## <https://pedromarianoalmeida.github.io/palmeida-website-2026/>
 
-## Open source contributions (35 completed + 2 in progress):
+## Open source contributions (35 completed + 3 in progress):
 
 <table>
   <thead>
@@ -34,8 +34,8 @@ I am ***Pedro Almeida***, software developer.
       <td><a href="https://github.com/TryGhost/Ghost/pull/28606">28606</a>, <a href="https://github.com/TryGhost/Ghost/pull/28638">28638</a></td>
     </tr>
     <tr>
-      <td>Bug fix from issues</td>
-      <td><a href="https://github.com/TryGhost/Ghost/pull/29215">Add mobile card deletion control - WIP</a></td>
+      <td>Issue triage and bug fixes</td>
+      <td><a href="https://github.com/TryGhost/Ghost/pull/29215">Add mobile card deletion control - WIP</a>, <a href="https://github.com/TryGhost/Ghost/pull/29550">Fix toggle card screen reader accessibility - WIP</a></td>
     </tr>
     <tr>
       <td rowspan="4">React Bits<br><a href="https://github.com/DavidHDev/react-bits"><img alt="React Bits GitHub stars" src="https://img.shields.io/github/stars/DavidHDev/react-bits?style=flat&label=stars"></a></td>
@@ -56,7 +56,7 @@ I am ***Pedro Almeida***, software developer.
     </tr>
     <tr>
       <td rowspan="2">React Email<br><a href="https://github.com/resend/react-email"><img alt="React Email GitHub stars" src="https://img.shields.io/github/stars/resend/react-email?style=flat&label=stars"></a></td>
-      <td>Bug fix from issues</td>
+      <td>Issue triage and bug fixes</td>
       <td><a href="https://github.com/resend/react-email/pull/2259">2259</a></td>
     </tr>
     <tr>
@@ -75,7 +75,7 @@ I am ***Pedro Almeida***, software developer.
     </tr>
     <tr>
       <td>Paypal<br><a href="https://github.com/paypal/paypal-js"><img alt="PayPal JS GitHub stars" src="https://img.shields.io/github/stars/paypal/paypal-js?style=flat&label=stars"></a></td>
-      <td>Bugfix from issues</td>
+      <td>Issue triage and bug fixes</td>
       <td><a href="https://github.com/paypal/paypal-js/pull/640">640</a></td>
     </tr>
   </tbody>
