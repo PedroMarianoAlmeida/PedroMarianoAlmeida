@@ -4,7 +4,7 @@ I am ***Pedro Almeida***, software developer.
 
 ## <https://pedromarianoalmeida.github.io/palmeida-website-2026/>
 
-## Open source contributions (35 completed + 3 in progress):
+## Open source contributions (35 completed + 2 in progress):
 
 <table>
   <thead>
@@ -38,7 +38,7 @@ I am ***Pedro Almeida***, software developer.
     </tr>
     <tr>
       <td>Issue triage and bug fixes</td>
-      <td><a href="https://github.com/TryGhost/Ghost/pull/29215">Add mobile card deletion control - WIP</a>, <a href="https://github.com/TryGhost/Ghost/pull/29550">Fix toggle card screen reader accessibility - WIP</a></td>
+      <td><a href="https://github.com/TryGhost/Ghost/pull/29215">Add mobile card deletion control - WIP</a></td>
     </tr>
     <tr>
       <td rowspan="4">React Bits<br><a href="https://github.com/DavidHDev/react-bits"><img alt="React Bits GitHub stars" src="https://img.shields.io/github/stars/DavidHDev/react-bits?style=flat&label=stars"></a></td>
