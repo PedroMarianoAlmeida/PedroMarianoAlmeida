@@ -4,7 +4,7 @@ I am ***Pedro Almeida***, software developer.
 
 ## <https://pedromarianoalmeida.github.io/palmeida-website-2026/>
 
-## Open source contributions (35 completed + 2 in progress):
+## Open source contributions (35 completed + 1 in progress):
 
 <table>
   <thead>
@@ -16,12 +16,6 @@ I am ***Pedro Almeida***, software developer.
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Supabase<br><a href="https://github.com/supabase/supabase"><img alt="Supabase GitHub stars" src="https://img.shields.io/github/stars/supabase/supabase?style=flat&label=stars"></a></td>
-      <td align="center">-</td>
-      <td>Solve a 2-year-old TODO on codebase</td>
-      <td><a href="https://github.com/supabase/supabase/pull/44541">44541 - WIP</a></td>
-    </tr>
     <tr>
       <td rowspan="4">Ghost<br><a href="https://github.com/TryGhost/Ghost"><img alt="Ghost GitHub stars" src="https://img.shields.io/github/stars/TryGhost/Ghost?style=flat&label=stars"></a></td>
       <td rowspan="4" align="center">11</td>
