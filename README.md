@@ -4,7 +4,7 @@ I am ***Pedro Almeida***, software developer.
 
 ## <https://pedromarianoalmeida.github.io/palmeida-website-2026/>
 
-## Open source contributions (35 completed + 1 in progress):
+## Open source contributions (38 completed + 1 in progress):
 
 <table>
   <thead>
@@ -79,6 +79,12 @@ I am ***Pedro Almeida***, software developer.
       <td align="center">1</td>
       <td>Issue triage and bug fixes</td>
       <td><a href="https://github.com/paypal/paypal-js/pull/640">640</a></td>
+    </tr>
+    <tr>
+      <td>DivineVoice<br><a href="https://github.com/layer07/DivineVoice"><img alt="DivineVoice GitHub stars" src="https://img.shields.io/github/stars/layer07/DivineVoice?style=flat&label=stars"></a></td>
+      <td align="center">3</td>
+      <td>Rust - macOS dictation support and signed, reproducible app packaging</td>
+      <td><a href="https://github.com/layer07/DivineVoice/pull/1">1</a>, <a href="https://github.com/layer07/DivineVoice/pull/2">2</a>, <a href="https://github.com/layer07/DivineVoice/pull/3">3</a></td>
     </tr>
   </tbody>
 </table>
