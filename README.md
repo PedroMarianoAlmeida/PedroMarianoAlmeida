@@ -53,6 +53,12 @@ I am ***Pedro Almeida***, software developer.
       <td><a href="https://github.com/DavidHDev/react-bits/pull/883">Update llm.txt with the new components</a></td>
     </tr>
     <tr>
+      <td>Metabase<br><a href="https://github.com/metabase/metabase"><img alt="Metabase GitHub stars" src="https://img.shields.io/github/stars/metabase/metabase?style=flat&label=stars"></a></td>
+      <td align="center">0</td>
+      <td>Clean up - remove dead code</td>
+      <td><a href="https://github.com/metabase/metabase/pull/86409">Fix ChannelSpec contract for pulse form input - WIP</a></td>
+    </tr>
+    <tr>
       <td rowspan="2">React Email<br><a href="https://github.com/resend/react-email"><img alt="React Email GitHub stars" src="https://img.shields.io/github/stars/resend/react-email?style=flat&label=stars"></a></td>
       <td rowspan="2" align="center">3</td>
       <td>Issue triage and bug fixes</td>
@@ -85,12 +91,6 @@ I am ***Pedro Almeida***, software developer.
       <td align="center">3</td>
       <td>Rust - macOS dictation support and signed, reproducible app packaging</td>
       <td><a href="https://github.com/layer07/DivineVoice/pull/1">1</a>, <a href="https://github.com/layer07/DivineVoice/pull/2">2</a>, <a href="https://github.com/layer07/DivineVoice/pull/3">3</a></td>
-    </tr>
-    <tr>
-      <td>Metabase<br><a href="https://github.com/metabase/metabase"><img alt="Metabase GitHub stars" src="https://img.shields.io/github/stars/metabase/metabase?style=flat&label=stars"></a></td>
-      <td align="center">0</td>
-      <td>TypeScript - remove stale type</td>
-      <td><a href="https://github.com/metabase/metabase/pull/86409">Fix ChannelSpec contract for pulse form input - WIP</a></td>
     </tr>
   </tbody>
 </table>
