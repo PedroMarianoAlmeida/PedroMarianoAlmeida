@@ -4,6 +4,8 @@ I am **_Pedro Almeida_**, software developer.
 
 ## <https://pedromarianoalmeida.github.io/palmeida-website-2026/>
 
+Youtube content creator: https://www.youtube.com/@projeto-dev-pedro-almeida
+
 ## Open source contributions (38 completed + 2 in progress):
 
 <table>
